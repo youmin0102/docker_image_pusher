@@ -1,5 +1,6 @@
 nginx
 #支持私库
 vllm/vllm-openai:v0.8.5.post1
+approachingai/ktransformers:latest-AVX512
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
